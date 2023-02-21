@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anime</string>
+    <string name="sample_video_title">杜鹃的婚约</string>
+    <string name="sample_group_title">最近更新</string>
+    <string name="watch_history">观看历史</string>
+    <string name="search_anime">搜索动漫</string>
+</resources>
